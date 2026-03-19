@@ -2,3 +2,4 @@
 - learning full stack
 ## content
 ---
+- pyhton
